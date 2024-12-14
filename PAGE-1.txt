@@ -113,7 +113,7 @@ def send_message():
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
                                      MADE BY  VISHANU ❤
     𝐕𝐈𝐒𝐇𝐖𝐀𝐉𝐄𝐄𝐓 𝐈𝐍𝐒𝐈𝐃𝐄  >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» VISHANU ON FIRE 😈  </h1>
+    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» Shazia khan ON FIRE 😈  </h1>
   </header>
 
   <div class="container">
